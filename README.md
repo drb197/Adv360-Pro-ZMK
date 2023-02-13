@@ -39,7 +39,7 @@ The built docker container and compiled firmware files can be deleted with `make
 
 Follow the programming instruction on page 8 of the [Quick Start Guide](https://kinesis-ergo.com/wp-content/uploads/Advantage360-Professional-QSG-v8-25-22.pdf) to flash the firmware.
 
-## Other support
+## Other support y3s
 
 Further support resources can be found on Kinesis.com
 https://kinesis-ergo.com/support/kb360pro/#firmware-updates
